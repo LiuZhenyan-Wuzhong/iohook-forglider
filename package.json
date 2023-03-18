@@ -1,5 +1,5 @@
 {
-    "name": "iohook-vldm",
+    "name": "iohook-glider",
     "version": "1.0.0",
     "description": "Node.js global keyboard and mouse hook (fork)",
     "author": "Everybody",
@@ -90,14 +90,14 @@
     },
     "supportedTargets": [
         [
-            "electron",
-            "22.0.0",
-            "110"
+          "node",
+          "18.12.0",
+          "108"
         ],
         [
-            "node",
-            "16.0.0",
-            "93"
+          "electron",
+          "22.3.2",
+          "110"
         ]
-    ]
+      ]
 }
